@@ -1,6 +1,7 @@
-# studyapp
+# Educational study app
 
-A new Flutter project.
+A Flitter project to help students practice basic subjects.
+Firebase,Github actions 
 
 ## Getting Started
 
